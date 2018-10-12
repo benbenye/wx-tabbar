@@ -1,0 +1,3 @@
+<view class="tb-container">
+    <slot></slot>
+</view>
